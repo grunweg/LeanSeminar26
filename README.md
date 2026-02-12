@@ -10,7 +10,7 @@ If you have used Lean, but are unsure about your knowledge, feel free to write m
 
 **Regular seminar time and place**: Tuesdays, 14.15 to 15.45 (room N.008 --- in the *Neubau* building behind the main mathematics building)
 
-**Outline and topics**: see [here](Topics.pdf)
+**Outline and topics**: see [here](Plan.pdf)
 
 ## Tentative schedule
 Some details are subject to change: a few talks need to be scheduled, for example.
