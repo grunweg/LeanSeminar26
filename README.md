@@ -1,4 +1,4 @@
-## Bonn Lean seminar, summer semester 2026
+# Bonn Lean seminar, summer semester 2026
 
 This is the repository for the advanced Lean seminar at university Bonn.
 
@@ -12,4 +12,28 @@ If you have used Lean, but are unsure about your knowledge, feel free to write m
 
 **Outline and topics**: see [here](Topics.pdf)
 
-A **tentative schedule** will be added after the initial meeting.
+## Tentative schedule
+Some details are subject to change: a few talks need to be scheduled, for example.
+
+**April 14.** equality, transparency and all that (Fridolin)
+**April 21.** unification (Max)
+**April 28.** typeclass inference, part 1 (Jasper)
+**May 5.** typeclass inference, part 2 (Alex)
+**May 12.** no seminar
+**May 19.** simp, simp sets and simp normal forms (Vivek)
+**May 26.** no seminar (holiday)
+**June 2.** integrals within integrals and the Sobolev inequality (Felix)
+**June 9.** the mathlib contribution process (Ruth)
+**June 16.** the `gcongr` tactic (Pascal)
+**June 23.** no seminar
+**June 30.** no seminar
+**July 7.** the `grind` tactic (Hannah)
+**July 14.** Doob's martingale convergence theorem (Shuhan)
+**July 21.** homological algebra and homology (Abel)
+
+**Not yet scheduled** are talks by
+- *Johannes* on verbose lean (and perhaps waterproof) \cite{Massot24}
+- *Yannik* on the `aesop` tactic \cite{LimpergAesop}
+- *Pablo* about the *flypitch* project and model theory \cite{}
+
+There will be a poll for finding suitable dates soon.
