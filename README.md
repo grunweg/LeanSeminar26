@@ -20,7 +20,7 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 - **April 28.** typeclass inference, part 1 (Jasper)
 - **May 5.** typeclass inference, part 2 (Alex)
 - **May 12.** no seminar
-- **May 19.** simp, simp sets and simp normal forms (Vivek)
+- ~~**May 19.**~~will be rescheduled simp, simp sets and simp normal forms (Vivek)
 - **May 26.** no seminar (holiday)
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
 - **June 9.** the mathlib contribution process (Ruth)
@@ -34,6 +34,9 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 **Not yet scheduled** are talks by
 - *Johannes* on verbose lean (and perhaps waterproof)
 - *Yannik* on the `aesop` tactic
+- *Pan* on the `positivity` tactic
 - *Pablo* about the *flypitch* project and model theory
+- *Evgeniya* about semantic engines and how they work
+- *Arend* about `qq`, metaprogramming and `ring`
 
 There will be a poll for finding suitable dates soon.
