@@ -3,8 +3,7 @@
 This is the repository for the advanced Lean seminar at university Bonn.
 
 **Prerequisites.** Lean knowledge at the level of e.g. the lecture "Topics in Computer-assisted
-Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCourse25)). If you have not used Lean before, I recommend you to take a class on it first. The above lecture will be offered again next winter semester.
-If you have used Lean, but are unsure about your knowledge, feel free to write me an email (rothgang at math.uni-bonn.de).
+Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCourse25)). The lecture will be offered again next winter; if you have not used Lean before, I recommend you take it first. If you have used Lean, but are unsure about your knowledge, feel free to write me an email (rothgang at math.uni-bonn.de).
 
 **Initial meeting.** Thursday, February 12 at 10.15 (room 0.011).
 
