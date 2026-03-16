@@ -9,6 +9,8 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 
 **Regular seminar time and place**: Tuesdays, 14.15 to 15.45 (room N.008 --- in the *Neubau* building behind the main mathematics building)
 
+**course page**: [ecampus](https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=4052953)
+
 **Outline and topics**: see [here](Plan.pdf)
 
 ## Tentative schedule
