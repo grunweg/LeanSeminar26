@@ -16,10 +16,10 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 
 - **April 14.** equality, transparency and all that (Fridolin)
 - **April 21.** unification (Max)
-- **April 28.** typeclass inference, part 1 (Jasper)
+- **April 28.** typeclass inference, part 1 (Abel)
 - **May 5.** typeclass inference, part 2 (Alex)
 - **May 12.** no seminar
-- ~~**May 19.**~~will be rescheduled simp, simp sets and simp normal forms (Vivek)
+- ~~**May 19.**~~ will be rescheduled simp, simp sets and simp normal forms (Vivek)
 - **May 26.** no seminar (holiday)
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
 - **June 9.** the mathlib contribution process (Ruth)
@@ -28,7 +28,7 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 - **June 30.** no seminar
 - **July 7.** the `grind` tactic (Hannah)
 - **July 14.** Doob's martingale convergence theorem (Shuhan)
-- **July 21.** homological algebra and homology (Abel)
+- **July 21.** TBD!
 
 **Not yet scheduled** are talks by
 - *Johannes* on verbose lean (and perhaps waterproof)
@@ -38,4 +38,4 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 - *Evgeniya* about semantic engines and how they work
 - *Arend* about `qq`, metaprogramming and `ring`
 
-There will be a poll for finding suitable dates soon.
+There is a poll for finding suitable dates: contact me if you have not received the link yet.
