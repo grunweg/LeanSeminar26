@@ -7,14 +7,14 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 
 **Initial meeting.** Thursday, February 12 at 10.15 (room 0.011).
 
-**Regular seminar time and place**: Tuesdays, 14.15 to 15.45 (room N.008 --- in the *Neubau* building behind the main mathematics building)
+**Regular seminar time and place**: Tuesdays, 14.15 to 15.45 (room N.008 --- in the *Neubau* building behind the main mathematics building). There will be a **one-day block seminar** on June 6, place to be announced.
 
 **course page**: [ecampus](https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=4052953)
 
 **Outline and topics**: see [here](Plan.pdf)
 
-## Tentative schedule
-Some details are subject to change: a few talks need to be scheduled, for example.
+## Current schedule
+Some details are subject to change, including a few talks which need to be (re-)scheduled.
 
 - **April 14.** equality, transparency and all that (Fridolin)
 - **April 21.** unification (Max)
@@ -24,6 +24,11 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 - ~~**May 19.**~~ will be rescheduled simp, simp sets and simp normal forms (Vivek)
 - **May 26.** no seminar (holiday)
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
+- **June 6.** the order of the talks is to be determined
+  - *Evgenia* about semantic engines and how they work
+  - *Pablo* about the *flypitch* project and model theory
+  - *Pan* on the `positivity` tactic
+  - *Yannik* on the `aesop` tactic
 - **June 9.** the mathlib contribution process (Ruth)
 - **June 16.** the `gcongr` tactic (Pascal)
 - **June 23.** no seminar
@@ -34,10 +39,4 @@ Some details are subject to change: a few talks need to be scheduled, for exampl
 
 **Not yet scheduled** are talks by
 - *Johannes* on verbose lean (and perhaps waterproof)
-- *Yannik* on the `aesop` tactic
-- *Pan* on the `positivity` tactic
-- *Pablo* about the *flypitch* project and model theory
-- *Evgeniya* about semantic engines and how they work
 - *Arend* about `qq`, metaprogramming and `ring`
-
-There is a poll for finding suitable dates: contact me if you have not received the link yet.
