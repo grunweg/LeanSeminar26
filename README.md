@@ -14,20 +14,23 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 **Outline and topics**: see [here](Plan.pdf)
 
 ## Current schedule
-Some details are subject to change, including a few talks which need to be (re-)scheduled.
+Some details are subject to change.
 
 - **April 14.** equality, transparency and all that (Fridolin)
 - **April 21.** unification (Max)
 - **April 28.** typeclass inference, part 1 (Abel)
 - **May 5.** typeclass inference, part 2 (Alex)
 - **May 12.** no seminar
-- ~~**May 19.**~~ will be rescheduled simp, simp sets and simp normal forms (Vivek)
+- **May 19.** no seminar
 - **May 26.** no seminar (holiday)
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
 - **June 6.** the order of the talks is to be determined
+  - *Arend* about `qq`, metaprogramming and `ring`
   - *Evgenia* about semantic engines and how they work
+  - *Johannes* on verbose lean (and perhaps waterproof)
   - *Pablo* about the *flypitch* project and model theory
   - *Pan* on the `positivity` tactic
+  - *Vivek* on simp, simp sets and simp normal forms
   - *Yannik* on the `aesop` tactic
 - **June 9.** the mathlib contribution process (Ruth)
 - **June 16.** the `gcongr` tactic (Pascal)
@@ -35,8 +38,4 @@ Some details are subject to change, including a few talks which need to be (re-)
 - **June 30.** no seminar
 - **July 7.** the `grind` tactic (Hannah)
 - **July 14.** Doob's martingale convergence theorem (Shuhan)
-- **July 21.** TBD!
-
-**Not yet scheduled** are talks by
-- *Johannes* on verbose lean (and perhaps waterproof)
-- *Arend* about `qq`, metaprogramming and `ring`
+- **July 21.** to be determined!
