@@ -36,6 +36,7 @@ Some details are subject to change.
 - **June 16.** the `gcongr` tactic (Pascal)
 - **June 23.** no seminar
 - **June 30.** no seminar
-- **July 7.** the `grind` tactic (Hannah)
+- **July 7.** to be determined
+- **July 9**: the `grind` tactic (Hannah) **room 0.007**, joint with the formalised mathematics group seminar
 - **July 14.** Doob's martingale convergence theorem (Shuhan)
 - **July 21.** to be determined!
