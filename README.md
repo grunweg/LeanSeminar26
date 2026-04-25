@@ -27,10 +27,9 @@ Some details are subject to change.
 - **June 6.** room N0.007; please reserve the time frame **10-18** for now. the order of the talks is to be determined
   - *Arend* about `qq`, metaprogramming and `ring`
   - *Evgenia* about semantic engines and how they work
-  - *Johannes* on verbose lean (and perhaps waterproof)
   - *Pablo* about the *flypitch* project and model theory
   - *Pan* on the `positivity` tactic
-  - ~~*Vivek* on simp, simp sets and simp normal forms~~ talk cancelled; the topic is still open
+  - *Johannes* on simp, simp sets and simp normal forms
   - *Yannik* on the `aesop` tactic
 - **June 9.** the mathlib contribution process (Ruth)
 - **June 16.** the `gcongr` tactic (Pascal)
