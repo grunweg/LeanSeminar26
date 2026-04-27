@@ -28,11 +28,11 @@ Some details are subject to change.
   - *Arend* about `qq`, metaprogramming and `ring`
   - *Evgenia* about semantic engines and how they work
   - *Pablo* about the *flypitch* project and model theory
-  - *Pan* on the `positivity` tactic
   - *Johannes* on simp, simp sets and simp normal forms
   - *Yannik* on the `aesop` tactic
 - **June 9.** the mathlib contribution process (Ruth)
 - **June 16.** the `gcongr` tactic (Pascal)
+- **June 18.** the `positivity` tactic (Pan) **room 0.007**, joint with the formalised mathematics group seminar
 - **June 23.** no seminar
 - **June 30.** no seminar
 - **July 7.** to be determined
