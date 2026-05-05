@@ -17,8 +17,8 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 Some details are subject to change.
 
 - **April 14.** equality, transparency and all that (Fridolin)
-- **April 21.** unification (Max)
-- **April 28.** typeclass inference, part 1 (Abel)
+- **April 21.** unification (Max) ([handout](material/Unification_handout.pdf), [slides](material/Unification_slides.pdf))
+- **April 28.** typeclass inference, part 1 (Abel) ([slides](https://verso.abeldonate.com/typeclasses-slides/), [documentation](https://verso.abeldonate.com/typeclasses-verso/))
 - **May 5.** typeclass inference, part 2 (Alex)
 - **May 12.** no seminar
 - **May 19.** no seminar
@@ -26,7 +26,7 @@ Some details are subject to change.
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
 - **June 6.** room N0.007; please reserve the time frame **10-18** for now. the order of the talks is to be determined
   - *Arend* about `qq`, metaprogramming and `ring`
-  - *Evgenia* about semantic engines and how they work
+  - *Evgenia* about semantic search engines and how they work
   - *Pablo* about the *flypitch* project and model theory
   - *Johannes* on simp, simp sets and simp normal forms
   - *Yannik* on the `aesop` tactic
