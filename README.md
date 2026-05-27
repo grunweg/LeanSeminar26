@@ -25,9 +25,7 @@ Some details are subject to change.
 - **May 26.** no seminar (holiday)
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
 - **June 6.** room N0.007; please reserve the time frame **10-18** for now. the order of the talks is to be determined
-  - *Arend* about `qq`, metaprogramming and `ring`
   - *Evgenia* about semantic search engines and how they work
-  - *Pablo* about the *flypitch* project and model theory
   - *Johannes* on simp, simp sets and simp normal forms
   - *Yannik* on the `aesop` tactic
 - **June 9.** the mathlib contribution process (Ruth)
@@ -35,7 +33,7 @@ Some details are subject to change.
 - **June 18.** the `positivity` tactic (Pan) **room 0.007**, joint with the formalised mathematics group seminar
 - **June 23.** no seminar
 - **June 30.** no seminar
-- **July 7.** to be determined
+- **July 7.** *Pablo* about the *flypitch* project and model theory
 - **July 9**: the `grind` tactic (Hannah) **room 0.007**, joint with the formalised mathematics group seminar
 - **July 14.** Doob's martingale convergence theorem (Shuhan)
 - **July 21.** to be determined!
