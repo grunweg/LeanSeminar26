@@ -25,9 +25,9 @@ Some details are subject to change.
 - **May 26.** no seminar (holiday)
 - **June 2.** integrals within integrals and the Sobolev inequality (Felix)
 - **June 6.** room N0.007; we meet from **10.15** until **13.30** at most
-  - *Evgenia* about semantic search engines and how they work
+  - *Evgenia* about semantic search and discrimination trees
   - *Yannik* on the `aesop` tactic
-- **June 9.** the mathlib contribution process (Ruth)
+- **June 9.** the mathlib contribution process (Ruth) ([slides](material/mathlib_contribution_process-slides.pdf), [handout](material/mathlib_contribution_process-handout.pdf))
 - **June 16.** the `gcongr` tactic (Pascal)
 - **June 18.** the `positivity` tactic (Pan) **room 0.007**, joint with the formalised mathematics group seminar
 - **June 23.** no seminar
