@@ -32,7 +32,7 @@ Some details are subject to change.
 - **June 18.** the `positivity` tactic (Pan) **room 0.007**, joint with the formalised mathematics group seminar
 - **June 23.** no seminar
 - **June 30.** no seminar
-- **July 7.** *Pablo* about the *flypitch* project and model theory
+- **July 7.** *Pablo* about the *flypitch* project and model theory ([slides](material/Flypitch_slides.pdf))
 - **July 9**: the `grind` tactic (Hannah) **room 0.007**, joint with the formalised mathematics group seminar ([slides](https://scholzhannah.de/GrindSlides/), [write-up](https://scholzhannah.de/GrindWriteUp/))
 - **July 14.** Doob's martingale convergence theorem (Shuhan)
 - **July 21.** *Johannes* on simp, simp sets and simp normal forms
