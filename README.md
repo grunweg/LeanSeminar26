@@ -16,9 +16,9 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 ## Current schedule
 Some details are subject to change.
 
-- **April 14.** equality, transparency and all that (Fridolin)
+- **April 14.** equality, transparency and all that (Fridolin) ([slides](material/equality_transparency_slides.pdf), [written documentation](material/equality_transparency_writeup.pdf))
 - **April 21.** unification (Max) ([handout](material/Unification_handout.pdf), [slides](material/Unification_slides.pdf))
-- **April 28.** typeclass inference, part 1 (Abel) ([slides](https://verso.abeldonate.com/typeclasses-slides/), [documentation](https://verso.abeldonate.com/typeclasses-verso/))
+- **April 28.** typeclass inference, part 1 (Abel) ([slides](https://verso.abeldonate.com/typeclasses-slides/), [written documentation](https://verso.abeldonate.com/typeclasses-verso/))
 - **May 5.** typeclass inference, part 2 (Alex)
 - **May 12.** no seminar
 - **May 19.** no seminar
@@ -33,6 +33,6 @@ Some details are subject to change.
 - **June 23.** no seminar
 - **June 30.** no seminar
 - **July 7.** *Pablo* about the *flypitch* project and model theory ([slides](material/Flypitch_slides.pdf))
-- **July 9**: the `grind` tactic (Hannah) **room 0.007**, joint with the formalised mathematics group seminar ([slides](https://scholzhannah.de/GrindSlides/), [write-up](https://scholzhannah.de/GrindWriteUp/))
+- **July 9**: the `grind` tactic (Hannah) **room 0.007**, joint with the formalised mathematics group seminar ([slides](https://scholzhannah.de/GrindSlides/), [written documentation](https://scholzhannah.de/GrindWriteUp/))
 - **July 14.** Doob's martingale convergence theorem (Shuhan)
 - **July 21.** *Johannes* on simp, simp sets and simp normal forms
