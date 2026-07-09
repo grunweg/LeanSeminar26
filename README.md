@@ -28,7 +28,7 @@ Some details are subject to change.
   - *Evgenia* about semantic search and discrimination trees
   - *Yannik* on the `aesop` tactic ([slides](material/aesop_slides.pdf), [handout](material/aesop_handout.pdf))
 - **June 9.** the mathlib contribution process (Ruth) ([slides](material/mathlib_contribution_process-slides.pdf), [handout](material/mathlib_contribution_process-handout.pdf))
-- **June 16.** the `gcongr` tactic (Pascal)
+- **June 16.** the `gcongr` tactic (Pascal) ([slides](material/gcongr_slides.pdf), [flow-chart of tactic logic](material/gcongr_flowchart.png), [Lean example file](material/gcongr_examples.lean), [write-up focusing on the metaprogramming](material/gcongr_metaprogramming_write-up.pdf))
 - **June 18.** the `positivity` tactic (Pan) **room 0.007**, joint with the formalised mathematics group seminar
 - **June 23.** no seminar
 - **June 30.** no seminar
