@@ -13,26 +13,25 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 
 **Outline and topics**: see [here](Plan.pdf)
 
-## Current schedule
-Some details are subject to change.
+## Schedule
 
-- **April 14.** equality, transparency and all that (Fridolin) ([slides](material/equality_transparency_slides.pdf), [written documentation](material/equality_transparency_writeup.pdf))
-- **April 21.** unification (Max) ([handout](material/Unification_handout.pdf), [slides](material/Unification_slides.pdf))
-- **April 28.** typeclass inference, part 1 (Abel) ([slides](https://verso.abeldonate.com/typeclasses-slides/), [written documentation](https://verso.abeldonate.com/typeclasses-verso/))
-- **May 5.** typeclass inference, part 2 (Alex)
+- **April 14.** *Fridolin* about equality, transparency and all that ([slides](material/equality_transparency_slides.pdf), [written documentation](material/equality_transparency_writeup.pdf))
+- **April 21.** *Max* about unification ([handout](material/Unification_handout.pdf), [slides](material/Unification_slides.pdf))
+- **April 28.** *Abel* about typeclass inference, part 1([slides](https://verso.abeldonate.com/typeclasses-slides/), [written documentation](https://verso.abeldonate.com/typeclasses-verso/))
+- **May 5.** *Alex* about typeclass inference, part 2
 - **May 12.** no seminar
 - **May 19.** no seminar
 - **May 26.** no seminar (holiday)
-- **June 2.** integrals within integrals and the Sobolev inequality (Felix)
+- **June 2.** *Felix* about integrals within integrals and the Sobolev inequality
 - **June 6.** room N0.007; we meet from **10.15** until **13.30** at most
   - *Evgenia* about semantic search and discrimination trees
   - *Yannik* on the `aesop` tactic ([slides](material/aesop_slides.pdf), [handout](material/aesop_handout.pdf))
-- **June 9.** the mathlib contribution process (Ruth) ([slides](material/mathlib_contribution_process-slides.pdf), [handout](material/mathlib_contribution_process-handout.pdf))
-- **June 16.** the `gcongr` tactic (Pascal) ([slides](material/gcongr_slides.pdf), [flow-chart of tactic logic](material/gcongr_flowchart.png), [Lean example file](material/gcongr_examples.lean), [write-up focusing on the metaprogramming](material/gcongr_metaprogramming_write-up.pdf))
-- **June 18.** the `positivity` tactic (Pan) **room 0.007**, joint with the formalised mathematics group seminar
+- **June 9.** *Ruth* about the mathlib contribution process ([slides](material/mathlib_contribution_process-slides.pdf), [handout](material/mathlib_contribution_process-handout.pdf))
+- **June 16.** *Pascal* about the `gcongr` tactic ([slides](material/gcongr_slides.pdf), [flow-chart of tactic logic](material/gcongr_flowchart.png), [Lean example file](material/gcongr_examples.lean), [write-up focusing on the metaprogramming](material/gcongr_metaprogramming_write-up.pdf))
+- **June 18.** *Pan* about the `positivity` tactic **room 0.007**, joint with the formalised mathematics group seminar
 - **June 23.** no seminar
 - **June 30.** no seminar
 - **July 7.** *Pablo* about the *flypitch* project and model theory ([slides](material/Flypitch_slides.pdf))
-- **July 9**: the `grind` tactic (Hannah) **room 0.007**, joint with the formalised mathematics group seminar ([slides](https://scholzhannah.de/GrindSlides/), [written documentation](https://scholzhannah.de/GrindWriteUp/))
-- **July 14.** Doob's martingale convergence theorem (Shuhan)
-- **July 21.** *Johannes* on simp, simp sets and simp normal forms
+- **July 9**: *Hannah* about the `grind` tactic **room 0.007**, joint with the formalised mathematics group seminar ([slides](https://scholzhannah.de/GrindSlides/), [written documentation](https://scholzhannah.de/GrindWriteUp/))
+- **July 14.** *Shuhan* on Doob's martingale convergence theorem
+- **July 21.** *Johannes* on simp, simp sets and simp normal forms ([write-up](material/simp,simp_set_write-up.pdf))
