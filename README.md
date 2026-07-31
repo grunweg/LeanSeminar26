@@ -22,7 +22,7 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 - **May 12.** no seminar
 - **May 19.** no seminar
 - **May 26.** no seminar (holiday)
-- **June 2.** *Felix* about integrals within integrals and the Sobolev inequality
+- **June 2.** *Felix* about integrals within integrals and the Sobolev inequality ([write-up](material/iterated_integrals_writeup.pdf))
 - **June 6.** room N0.007; we meet from **10.15** until **13.30** at most
   - *Evgenia* about semantic search and discrimination trees
   - *Yannik* on the `aesop` tactic ([slides](material/aesop_slides.pdf), [handout](material/aesop_handout.pdf))
