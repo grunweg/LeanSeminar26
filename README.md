@@ -33,5 +33,5 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 - **June 30.** no seminar
 - **July 7.** *Pablo* about the *flypitch* project and model theory ([slides](material/Flypitch_slides.pdf))
 - **July 9**: *Hannah* about the `grind` tactic **room 0.007**, joint with the formalised mathematics group seminar ([slides](https://scholzhannah.de/GrindSlides/), [written documentation](https://scholzhannah.de/GrindWriteUp/))
-- **July 14.** *Shuhan* on Doob's martingale convergence theorem
+- **July 14.** *Shuhan* on Doob's martingale convergence theorem ([slides](material/martingale_convergence_slides.pdf))
 - **July 21.** *Johannes* on simp, simp sets and simp normal forms ([write-up](material/simp,simp_set_write-up.pdf))
