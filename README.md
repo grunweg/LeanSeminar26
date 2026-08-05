@@ -24,7 +24,7 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 - **May 26.** no seminar (holiday)
 - **June 2.** *Felix* about integrals within integrals and the Sobolev inequality ([write-up](material/iterated_integrals_writeup.pdf))
 - **June 6.** room N0.007; we meet from **10.15** until **13.30** at most
-  - *Evgenia* about `exact?`, `apply?`, `rw?` tactics ([slides](https://github.com/lakesare/how-exact-works/tree/main), [video](https://www.youtube.com/watch?v=cih-vlU2JLc))
+  - *Evgenia* about `exact?`, `apply?`, `rw?` tactics and discrimination trees ([slides](https://github.com/lakesare/how-exact-works/blob/main/presentation/presentation.pdf), [video](https://www.youtube.com/watch?v=cih-vlU2JLc))
   - *Yannik* on the `aesop` tactic ([slides](material/aesop_slides.pdf), [handout](material/aesop_handout.pdf))
 - **June 9.** *Ruth* about the mathlib contribution process ([slides](material/mathlib_contribution_process-slides.pdf), [handout](material/mathlib_contribution_process-handout.pdf))
 - **June 16.** *Pascal* about the `gcongr` tactic ([slides](material/gcongr_slides.pdf), [flow-chart of tactic logic](material/gcongr_flowchart.png), [Lean example file](material/gcongr_examples.lean), [write-up focusing on the metaprogramming](material/gcongr_metaprogramming_write-up.pdf))
