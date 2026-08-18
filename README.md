@@ -18,7 +18,7 @@ Mathematics" in WiSe25/26 ([course page](https://github.com/fpvandoorn/LeanCours
 - **April 14.** *Fridolin* about equality, transparency and all that ([slides](material/equality_transparency_slides.pdf), [written documentation](material/equality_transparency_writeup.pdf))
 - **April 21.** *Max* about unification ([handout](material/Unification_handout.pdf), [slides](material/Unification_slides.pdf))
 - **April 28.** *Abel* about typeclass inference, part 1([slides](https://verso.abeldonate.com/typeclasses-slides/), [written documentation](https://verso.abeldonate.com/typeclasses-verso/))
-- **May 5.** *Alex* about typeclass inference, part 2
+- **May 5.** *Alex* about typeclass inference, part 2 ([slides](https://alexbrodbelt.github.io/verso-slides/))
 - **May 12.** no seminar
 - **May 19.** no seminar
 - **May 26.** no seminar (holiday)
